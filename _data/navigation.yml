@@ -12,5 +12,7 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
+  - title: "Servizi"
+    url: /servizi/
   - title: "Contatti"
     url: /contatti/

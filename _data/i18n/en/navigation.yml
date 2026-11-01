@@ -3,5 +3,7 @@ main:
     url: /en/
   - title: "Blog"
     url: /en/blog/
+  - title: "Services"
+    url: /en/services/
   - title: "Contact"
     url: /en/contact/
