@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "nome": "Template e prompt AI",
+    "id": "template-prompt-ai"
+  },
+  {
+    "nome": "Guide ed ebook AI",
+    "id": "guide-ebook-ai"
+  },
+  {
+    "nome": "Servizi AI",
+    "id": "servizi-ai"
+  }
+]
