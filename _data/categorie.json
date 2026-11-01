@@ -1,14 +1,10 @@
 [
   {
     "nome": "blog",
-    "descrizione": "Novita', approfondimenti e dietro le quinte"
+    "descrizione": "Approfondimenti sulle skill per agenti AI"
   },
   {
     "nome": "Guide",
-    "descrizione": "Istruzioni passo passo, spiegate semplici."
-  },
-  {
-    "nome": "Novità",
-    "descrizione": "Aggiornamenti e notizie dal sito."
+    "descrizione": "Guide passo passo, spiegate semplici."
   }
 ]
